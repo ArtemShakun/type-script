@@ -1,6 +1,5 @@
 export interface ILocalGitHubUser {
     login: string;
-    id: number;
     avatar: string;
     name: string;
     company: string | null;
